@@ -158,22 +158,6 @@ phoneNumber.Replace("０", "0").Replace("１", "1")
 
 ---
 
-## VB.NET式の調べ方・学習方法
-
-### 1. UiPath公式リソース
-
-#### UiPath Academy
-- **URL**: [academy.uipath.com](https://academy.uipath.com)
-- **推奨コース**: 
-  - 「RPA Developer Foundation」
-  - 「Variables, Arguments, and Control Flow」
-- **特徴**: 最新の情報と実践的な例が豊富
-
-#### UiPath公式ドキュメント
-- **URL**: [docs.uipath.com](https://docs.uipath.com)
-- **活用法**: アクティビティ別にVB.NET式の例が記載
-
-### 2. 式エディターの活用（AI機能）
 
 #### 使用方法
 1. **式エディターを開く**: アクティビティの「fx」ボタンをクリック
@@ -189,20 +173,6 @@ phoneNumber.Replace("０", "0").Replace("１", "1")
 入力: "文字列の長さを調べたい"
 出力: stringVariable.Length
 ```
-
-### 3. コミュニティリソース
-
-#### UiPath Community Forum
-- **URL**: [forum.uipath.com](https://forum.uipath.com)
-- **活用法**: 具体的な問題で検索、質問投稿
-
-#### Qiita
-- **検索方法**: 「UiPath VB.NET」「UiPath 式」で検索
-- **特徴**: 日本語での解説記事が豊富
-
-#### Stack Overflow
-- **検索方法**: 「UiPath」「VB.NET expression」で検索
-- **特徴**: 英語だが情報量が多い
 
 ---
 
